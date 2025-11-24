@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VDL_M1899Fix>
+    <CWeaponInfo>
+        <Name>weapon_pistol_m1899</Name>
+        <ShortArmHolsterDOF value="2" />
+    </CWeaponInfo>
+</VDL_M1899Fix>
